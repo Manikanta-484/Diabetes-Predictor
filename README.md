@@ -37,11 +37,11 @@ The dataset used is the [PIMA Indians Diabetes Dataset](https://www.kaggle.com/d
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-
+```
 ### 2. Install the required libraries
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3. Add the model files
 Make sure the following files are present in the same directory:
 
@@ -54,3 +54,4 @@ scaler.sav
 ### 4. Run the app
 ```bash
 streamlit run app.py
+```
